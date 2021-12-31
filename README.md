@@ -7,4 +7,4 @@ for using do the following :
 
 
 
-Develope by @hosseinbidaki79@gmail.com
+Developed by @hosseinbidaki79@gmail.com
